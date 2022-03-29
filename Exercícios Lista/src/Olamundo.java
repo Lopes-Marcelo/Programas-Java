@@ -3,3 +3,5 @@ public class Olamundo {
         System.out.println("Olá, Mundo!");
     }
 }
+
+/* Escreva um programa que mostre na tela a mensagem "Olá, Mundo!" */
