@@ -12,5 +12,6 @@ public class MediaPonderada {
         n3 = teclado.nextFloat();
         media = ((n1 * 1) + (n2 * 2) + (n3 * 3))/6;
         System.out.println("A média das notas informadas é " + media + ". Lembrando que a primeira nota possui peso 1, a segunda peso 2 e a terceira peso 3.");
+        teclado.close();
     }
 }

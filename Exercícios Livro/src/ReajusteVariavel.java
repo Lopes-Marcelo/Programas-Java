@@ -11,6 +11,6 @@ public class ReajusteVariavel {
         System.out.println("Salário informado: R$" + salario);
         System.out.println("Reajuste informado: " + reajuste + " %.");
         System.out.println("O salário com o reajuste será de R$" + novo_reajuste);
-
+        teclado.close();
     }
 }

@@ -14,5 +14,6 @@ public class Media {
         n4 = teclado.nextInt();
         int soma = n1 + n2 + n3 + n4;
         System.out.print("A soma dos números digitados é igual a " + soma);
+        teclado.close();
     }
 }

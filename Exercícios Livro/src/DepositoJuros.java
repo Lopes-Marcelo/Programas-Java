@@ -8,6 +8,7 @@ public class DepositoJuros {
         System.out.println("A taxa para depósitos é de 3% do valor total.");
         double total = deposito * 1.03;
         System.out.println("O valor total da operação é de: R$" + total);
+        teclado.close();
     }
     
 }

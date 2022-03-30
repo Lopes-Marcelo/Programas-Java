@@ -11,6 +11,7 @@ public class NumeroExp {
         int quadrado2 = (int) Math.pow(n2,n1);
         System.out.println(n1 + " elevado a " + n2 + " é igual a: " + quadrado1);
         System.out.println(n2 + " elevado a " + n1 + " é igual a: " + quadrado2);
+        teclado.close();
     }
     
 }

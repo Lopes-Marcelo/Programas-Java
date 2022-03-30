@@ -15,5 +15,6 @@ public class MediaNotas {
         n3 = teclado.nextFloat();
         media = (n1 + n2 + n3)/3;
         System.out.println("A média das notas informadas é " + media); //(casas.format(media)));
+        teclado.close();
     }
 }

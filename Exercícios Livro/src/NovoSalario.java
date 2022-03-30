@@ -7,5 +7,6 @@ public class NovoSalario {
         double salario = teclado.nextDouble();
         double novo_salario = salario * 1.25;
         System.out.println("Com o reajuste, seu novo salário será de R$" + novo_salario);
+        teclado.close();
     }
 }

@@ -10,5 +10,6 @@ public class SalarioBase {
         double salario3 = salario2 * 0.93;
         System.out.println("Salário informado: R$" + salario);
         System.out.println("O salário com os reajustes será de R$" + salario3);
+        teclado.close();
      }
 }
