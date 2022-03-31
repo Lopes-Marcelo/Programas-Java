@@ -12,5 +12,7 @@ public class Retangulo {
         System.out.println("O valor da área é " + area);
         System.out.print("O valor do perímetro é " + perimetro);
         teclado.close();
+
+        // Exercício 1
     }
 }
