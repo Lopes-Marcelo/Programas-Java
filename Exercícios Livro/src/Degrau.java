@@ -10,6 +10,8 @@ public class Degrau {
         double qnt_deg = Math.ceil(alt_usu / alt_deg);
         System.out.println("A quantidade de degraus necessária será de: " + qnt_deg + ".");
         teclado.close();
+
+        // Exercício 20 
     }
     
 }
