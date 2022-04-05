@@ -14,6 +14,8 @@ public class SalarioMinimo {
         vlr_sal_liq = vlr_sal_bru - imp;
         System.out.println("O salário líquido a receber diante de todas as regras é R$" + vlr_sal_liq);
         teclado.close();
+
+        // Exercício 17
     }
     
 }
