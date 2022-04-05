@@ -10,6 +10,7 @@ public class Escada {
         double radiano = (ang * 3.14) /180;
         double escada = (alt)/ Math.sin(radiano);
         System.out.println("A medida da escada é de " + escada + " metros.");
+        teclado.close();
     }
     
 }
