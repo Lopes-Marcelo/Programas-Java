@@ -11,6 +11,8 @@ public class Escada {
         double escada = (alt)/ Math.sin(radiano);
         System.out.println("A medida da escada é de " + escada + " metros.");
         teclado.close();
+
+        // Exercício 20 
     }
     
 }
