@@ -13,6 +13,8 @@ public class NumeroReal {
         System.out.println("O valor fracionário desse número é " + f);
         System.out.println("O valor arredondado desse número é " + a);
         teclado.close();
+
+        //Exercício 23
     }
     
 }
