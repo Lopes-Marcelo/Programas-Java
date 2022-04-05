@@ -12,6 +12,8 @@ public class Cheque {
         double saldo = salario - (cheque1 * 1.0038) - (cheque2 * 1.0038);
         System.out.println("Saldo atualizado: R$" + saldo);
         teclado.close();
+
+        // Exercício 18
     }
     
 }
