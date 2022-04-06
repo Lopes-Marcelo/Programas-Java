@@ -11,6 +11,8 @@ public class Hora {
         conversao = (h * 60) + (m * 100);
         System.out.println("O total de minutos diante do valor apresentado é " + conversao + " minutos.");
         teclado.close();
+
+        //Exercício 24
     }
     
 }
