@@ -9,7 +9,7 @@ public class Bemvindo {
         System.out.println("Seja Bem-Vindo, " + resp + "!");
         teclado.close();
 
-        //Exercício 1
+        //Exercício 2
         /* Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boasvindas para ela*/
     }
 }
