@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+public class Salario {
+    public static void main(String[] args) {
+        Scanner teclado = new Scanner(System.in);
+        System.out.print("Digite seu nome: ");
+        String nome = teclado.nextLine();
+        System.out.print("Informe seu salário: R$");
+        double salario = teclado.nextDouble();
+        System.out.println("Neste mês, o funcionário " + nome + " recebeu um salário de R$" + salario);
+        teclado.close();
+
+        //Exercício 3 
+    }
+    
+}
