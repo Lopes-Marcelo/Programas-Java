@@ -10,7 +10,9 @@ public class Teatro {
         convite = teclado.nextInt();
         qtd = custo/convite;
         System.out.println("O espetáculo precisa de " + qtd + " vendas de convite, no mínimo.");
-        teclado.close();
+        teclado.close(); 
+
+        // Exercício 25
     }
     
 }
