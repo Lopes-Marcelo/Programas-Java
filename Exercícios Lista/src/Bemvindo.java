@@ -7,8 +7,9 @@ public class Bemvindo {
         System.out.print("Qual é o seu nome? ");
         String resp = teclado.nextLine();
         System.out.println("Seja Bem-Vindo, " + resp + "!");
+        teclado.close();
+
+        //Exercício 1
+        /* Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boasvindas para ela*/
     }
 }
-
-//Exercício 1
-/* Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boasvindas para ela*/
