@@ -9,8 +9,8 @@ public class Retangulo {
         float com = teclado.nextFloat();
         float area = alt * com;
         float perimetro = (alt * 2) + (com * 2);
-        System.out.println("O valor da área é " + area);
-        System.out.print("O valor do perímetro é " + perimetro);
+        System.out.println("O valor da área é: " + area);
+        System.out.print("O valor do perímetro é: " + perimetro);
         teclado.close();
 
         // Exercício 1
