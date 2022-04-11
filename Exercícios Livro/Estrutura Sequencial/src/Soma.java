@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Media {
+public class Soma {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         int n1, n2, n3, n4; 
