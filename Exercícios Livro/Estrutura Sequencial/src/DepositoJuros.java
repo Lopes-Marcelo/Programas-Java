@@ -9,6 +9,8 @@ public class DepositoJuros {
         double total = deposito * 1.03;
         System.out.println("O valor total da operação é de: R$" + total);
         teclado.close();
+        
+        //Exercício 9
     }
     
 }
