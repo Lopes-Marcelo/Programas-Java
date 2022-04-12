@@ -11,5 +11,7 @@ public class SalarioBase {
         System.out.println("Salário informado: R$" + salario);
         System.out.println("O salário com os reajustes será de R$" + salario3);
         teclado.close();
+          
+        //Exercício 7
      }
 }
