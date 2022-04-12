@@ -10,6 +10,8 @@ public class ImpostoDez {
         double salario3 = 50 + salario2;
         System.out.println("Salário informado: R$" + salario);
         System.out.println("O salário com os reajustes será de R$" + salario3);
-        teclado.close();    
+        teclado.close();  
+        
+        //Exercício 8
     }    
 }
