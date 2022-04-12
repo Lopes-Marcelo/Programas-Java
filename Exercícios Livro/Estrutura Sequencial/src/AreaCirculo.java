@@ -8,5 +8,7 @@ public class AreaCirculo {
         double area = (raio * raio) * 3.14;
         System.out.println("A área do cícurlo é: " + area + " cm². (Considerando PI = 3,14).");
         teclado.close();
+        
+        //Exercício 11
     }
 }
