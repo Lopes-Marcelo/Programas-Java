@@ -14,6 +14,8 @@ public class NumeroPositivo {
         System.out.println("A raíz quadrada de " + numero + " é: " + raiz2);
         System.out.println("A raíz cúbica de " + numero + " é: " + raiz3);
         teclado.close();
+
+        //Exercício 12
     }
     
 }
