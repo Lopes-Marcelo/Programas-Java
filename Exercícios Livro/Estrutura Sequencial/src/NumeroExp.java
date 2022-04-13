@@ -13,5 +13,7 @@ public class NumeroExp {
         System.out.println(n2 + " elevado a " + n1 + " é igual a: " + quadrado2);
         teclado.close();
     }
+
+    //Exercício 13
     
 }
