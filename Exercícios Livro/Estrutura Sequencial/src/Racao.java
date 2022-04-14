@@ -13,7 +13,7 @@ public class Racao {
         System.out.println("Ao final de 5 dias sobrará " + total_final + "kg de ração.");
         teclado.close();
 
-        //Exercício 19
+        // Exercício 19
     }
     
 }
