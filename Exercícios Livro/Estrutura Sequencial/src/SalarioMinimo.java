@@ -15,7 +15,7 @@ public class SalarioMinimo {
         System.out.println("O salário líquido a receber diante de todas as regras é R$" + vlr_sal_liq);
         teclado.close();
 
-        // Exercício 17
+        //Exercício 17
     }
     
 }
