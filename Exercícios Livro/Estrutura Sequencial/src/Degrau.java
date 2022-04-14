@@ -11,7 +11,7 @@ public class Degrau {
         System.out.println("A quantidade de degraus necessária será de: " + qnt_deg + ".");
         teclado.close();
 
-        // Exercício 20 
+        //Exercício 20 
     }
     
 }
