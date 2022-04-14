@@ -16,6 +16,8 @@ public class Carro {
         System.out.println("O valor correspondente aos impostos é: R$" + imposto_final);
         System.out.println("O valor final do veículo é de: R$" + valor_final);
         teclado.close();
+
+        //Exercício 16
     }
     
 }
