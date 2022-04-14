@@ -13,7 +13,7 @@ public class Cheque {
         System.out.println("Saldo atualizado: R$" + saldo);
         teclado.close();
 
-        // Exercício 18
+        //Exercício 18
     }
     
 }
