@@ -13,6 +13,7 @@ public class Escada {
         teclado.close();
 
         // Exercício 21 
+        
     }
     
 }
