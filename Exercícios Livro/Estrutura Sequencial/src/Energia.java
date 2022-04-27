@@ -17,6 +17,6 @@ public class Energia {
         System.out.println("O valor com desconto a ser pago é de R$" + vlr_desc);
         teclado.close();
 
-        // Exercício 22
+        // Exercício 23
     }
 }
