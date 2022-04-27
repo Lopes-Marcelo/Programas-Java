@@ -14,7 +14,7 @@ public class NumeroReal {
         System.out.println("O valor arredondado desse número é " + a);
         teclado.close();
 
-        //Exercício 23
+        //Exercício 24
     }
     
 }
