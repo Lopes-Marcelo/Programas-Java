@@ -12,7 +12,7 @@ public class Hora {
         System.out.println("O total de minutos diante do valor apresentado é " + conversao + " minutos.");
         teclado.close();
 
-        //Exercício 24
+        //Exercício 25
     }
     
 }
