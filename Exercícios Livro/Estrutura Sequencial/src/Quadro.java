@@ -15,6 +15,6 @@ public class Quadro{
         System.out.println("A distância da escada e da parede é de " + y2);
         teclado.close();
 
-        //Exercício 21 
+        //Exercício 22 
     }
 }
