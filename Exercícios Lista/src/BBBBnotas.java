@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Notas {
+public class BBBBnotas {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         System.out.println("Informe a nota 1: ");
