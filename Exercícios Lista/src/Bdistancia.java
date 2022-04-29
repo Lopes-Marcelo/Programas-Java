@@ -8,7 +8,7 @@ public class Bdistancia {
         float km = n1 / 1000;
         float cm = n1 * 100;
         float mm = n1 * 1000;
-        System.out.println("A distância informada representa: " + km + " km," + cm + " cm," + mm + " mm.");
+        System.out.println("A distância informada em metros representa: " + km + " km," + cm + " cm," + mm + " mm.");
         teclado.close();
         
         //Desenvolva um programa que leia uma distância em metros e mostre os valores relativos em outras medidas.
