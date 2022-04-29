@@ -12,8 +12,6 @@ public class CCCparede {
         System.out.println("A área da parede informada é de " + area + " metros, e serão necessários " + tinta + " litros de tinta para pinta-lá.");
         teclado.close();
         
-
-        
         //Faça um algoritmo que leia a largura e altura de uma parede, calcule e mostre a área a ser pintada e a quantidade de tinta necessária para o serviço, sabendo que cada litro de tinta pinta uma área de 2metros quadrados.
     }
 }
