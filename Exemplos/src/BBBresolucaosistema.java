@@ -1,4 +1,4 @@
-public class Aresolucaosistema {
+public class BBBresolucaosistema {
     public static void main(String[] args) {
         //Tool tk = Tool.getDefaultToolkit();
         //Dimension d = tk.getScreenSize();
