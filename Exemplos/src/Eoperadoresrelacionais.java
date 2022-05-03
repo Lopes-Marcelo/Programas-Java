@@ -12,9 +12,10 @@ public class Eoperadoresrelacionais {
         String res = (nome1.equals(nome3)) ? "Igual":"Diferente";
         System.out.println(res);
         
+        
         // < "menor que"; > "maior que"; <= "menor igual a"; >= "maior igual a"; == "igual a"; != "diferente de"; 
 
-        //Em java, "=" é a atribuição.
+        // Em java, "=" é a atribuição.
     }
     
 }
