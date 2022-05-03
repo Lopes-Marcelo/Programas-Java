@@ -11,7 +11,7 @@ public class Doperadoresaritimeticos {
         System.out.println(valor);
         System.out.println(numero);
 
-        /int x = 4;
+        int x = 4;
         x += 2; // x = x + 2
         System.out.println(x);
 
@@ -19,8 +19,8 @@ public class Doperadoresaritimeticos {
         int ex = (int) Math.pow(v,2); // pi, sqrt ou cbrt
         System.out.format("A raíz quadrada de 5 é " + ex);
 
-        float v = 8.9f;
-        int ar = (int) Math.floor(v); //ceil, round ou abs
+        float val = 8.9f;
+        int ar = (int) Math.floor(val); //ceil, round ou abs
         System.out.println(ar);
 
         double ale = Math.random();
