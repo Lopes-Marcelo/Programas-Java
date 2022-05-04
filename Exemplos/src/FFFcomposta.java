@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Fcomposta {
+public class FFFcomposta {
 
     public static void main(String[] args) {
         //Exemplo 1

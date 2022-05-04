@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FFencadeada {
+public class Fencadeada {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         System.out.print("Qual o ano do seu nascimento? ");
