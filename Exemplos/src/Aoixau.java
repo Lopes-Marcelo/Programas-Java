@@ -3,5 +3,7 @@ public class AAoixau {
         System.out.println("Oi!");
         System.out.println("\n");
         System.out.println("Xau");
+        
+        //print simples
     }
 }
