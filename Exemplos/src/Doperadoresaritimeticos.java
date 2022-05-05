@@ -6,21 +6,20 @@ public class Doperadoresaritimeticos {
         System.out.println("A média entre 5 e 3 é " + media);
 
         int numero = 5;
-        //int valor = 5 + ++numero;
-        int valor = 5 + numero++;
+        int valor = 5 + numero++; // são diferentes e retornarão valores difirentes int valor = 5 + ++numero;
         System.out.println(valor);
         System.out.println(numero);
 
         int x = 4;
-        x += 2; // x = x + 2
+        x += 2; // OU x = x + 2
         System.out.println(x);
 
         int v =  5;
-        int ex = (int) Math.pow(v,2); // pi, sqrt ou cbrt
+        int ex = (int) Math.pow(v,2); // Outros são: pi, sqrt ou cbrt
         System.out.format("A raíz quadrada de 5 é " + ex);
 
         float val = 8.9f;
-        int ar = (int) Math.floor(val); //ceil, round ou abs
+        int ar = (int) Math.floor(val); // Outros são: ceil, round ou abs
         System.out.println(ar);
 
         double ale = Math.random();
