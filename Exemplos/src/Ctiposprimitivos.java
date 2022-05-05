@@ -18,7 +18,7 @@ public class Ctiposprimitivos {
         System.out.format("a nota de %s é %.3f \n", nomee, notaa);
         teclado.close();
 
-        //byte;short;int;long;boolean;char;float;double
+        //Outros exemplos de tipos primitivos do Java são: byte;short;int;long;boolean;char;float;double
     }
 }
 
