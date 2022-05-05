@@ -27,6 +27,8 @@ public class Elogicos {
         boolean resposta;
         resposta = !(l < m)? true:false;     // ! significa "não"
         System.out.println(resposta);
+
+        // Operadores Lógicos
     }
     
 }
