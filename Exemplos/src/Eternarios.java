@@ -12,5 +12,7 @@ public class Eternarios {
         System.out.println(r);
 
         //Ternário se define em: se não for um é o outro.
+
+        // Operadores Ternários
     }
 }
