@@ -5,22 +5,22 @@ public class JJJJaumento {
         Scanner teclado = new Scanner(System.in);
         System.out.println("Informe seu salário atual: R$ ");
         float salario_inicial = teclado.nextFloat();
-        System.out.println("Informe seu genêro Masculino [M]/ Feminino[F]: ");
-        String genero = teclado.next();
+        System.out.println("Informe seu genêro Masculino [1]/ Feminino[2]: ");
+        int genero = teclado.nextInt();
         System.out.println("Infome há quantos anos você trabalha na empresa: ");
         int anos = teclado.nextInt();
 
-        if ((genero == "F") && (anos < 15)){
+        if ((genero == 2) && (anos < 15)){
             System.out.println("Seu novo salário será de R$" + (salario_inicial * 1.05));
-        } else if ((genero == "F") && (anos >= 15) && (anos < 20)){
+        } else if ((genero == 2) && (anos >= 15) && (anos < 20)){
             System.out.println("Seu novo salário será de R$" + (salario_inicial * 1.12));
-        } else if ((genero == "F") && (anos > 20)){
+        } else if ((genero == 2) && (anos > 20)){
             System.out.println("Seu novo salário será de R$" + (salario_inicial * 1.23));
-        } else if ((genero == "M") && (anos < 20)){
+        } else if ((genero == 1) && (anos < 20)){
             System.out.println("Seu novo salário será de R$" + (salario_inicial * 1.03));
-        } else if ((genero == "M") && (anos >= 20) && (anos < 30)){
+        } else if ((genero == 1) && (anos >= 20) && (anos < 30)){
             System.out.println("Seu novo salário será de R$" + (salario_inicial * 1.13));
-        } else if ((genero == "M") && (anos > 30)){
+        } else if ((genero == 1) && (anos > 30)){
             System.out.println("Seu novo salário será de R$" + (salario_inicial * 1.25));
         }
 
