@@ -10,5 +10,5 @@ public class Imetodosemretorno {
         soma (5,3);
     }
 
-    // Estrutura básica de método sem retorno.
+    //Estrutura básica de método sem retorno.
 }
