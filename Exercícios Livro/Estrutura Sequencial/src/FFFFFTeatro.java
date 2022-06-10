@@ -12,7 +12,7 @@ public class Teatro {
         System.out.println("O espetáculo precisa de " + qtd + " vendas de convite, no mínimo.");
         teclado.close(); 
 
-        // Exercício 26
+        //Exercício 26
     }
     
 }
