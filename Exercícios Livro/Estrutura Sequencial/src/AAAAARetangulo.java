@@ -13,6 +13,6 @@ public class AAAAARetangulo {
         System.out.print("O valor do perímetro é: " + perimetro);
         teclado.close();
 
-        // Exercício 1
+        //Exercício 1
     }
 }
