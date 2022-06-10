@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Retangulo {
+public class AAAAARetangulo {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         System.out.print("Digite o valor da altura do retângulo: ");
